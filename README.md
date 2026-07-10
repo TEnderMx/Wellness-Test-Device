@@ -1,20 +1,48 @@
-# Wellness-Test-Device
+<div align="center">
+  
+# 🩺 Wellness Test Device
+**Empowering users with accessible, real-time health insights.**
 
-The "Wellness Test Device" was a device that tested the wellness level of a patient, by measuring the blood pressure, blood SPO2 levels, skin temperature and the BPM of the patient, and with those results, the device outputs an understandable and digestible result to the end user by using a percentage.
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
+[![Hardware](https://img.shields.io/badge/Hardware-Sensors_&_Oximetry-blue?style=for-the-badge)]()
 
-A) Issues faced in the project phases:
-1-	Research: No issues faced and the research phase was plentiful
-2-	Material Gathering: This was the hardest part, since the parts we researched about (Pressure Sesnor and Solenoid Valve) were not readily available locally in Egypt.
-3-	Implementation: As we discussed in the material gathering phase, the implementation was hard since we didn’t have the required components we were thinking of using in the research phase.
-4-	Testing Phase: No issues faced.
+</div>
 
-B) Outcome:
-Approximate Measurement of the Mean Arterial Pressure (MAP) of the patient and the SPO2 of the Oximeter along with the other sensors to result in a user friendly outcome for anyone to understand on the screen.
+---
 
-C) Future Improvement Given Time and Sufficient Budget:
-1-	Order the original parts from overseas since it takes months to arrive.
-2-	The case finishing would be more finalized and presentable using 3D printing.
-3-	Ordering more accurate and precise sensors.
-4-	Better screen for readings.
-5-	Custom made mobile application.
-6-	Audio cues for the blind.
+## 📖 Overview
+The **Wellness Test Device** is designed to demystify complex medical data. By continuously monitoring key vital signs—**Blood Pressure**, **Blood SpO2 Levels**, **Skin Temperature**, and **Heart Rate (BPM)**—the system aggregates these metrics to compute an overarching "Wellness Level." The final output is displayed as a simple, highly digestible **percentage (%)**, ensuring anyone can easily understand their current health status at a glance.
+
+---
+
+## 🎯 Project Outcomes
+Despite the challenges, the project successfully delivered a working prototype featuring:
+- **Mean Arterial Pressure (MAP):** Approximate, reliable measurement of the patient's MAP.
+- **Pulse Oximetry:** Real-time tracking of blood oxygen levels (SpO2) and BPM.
+- **Multi-Sensor Integration:** Seamlessly bringing temperature and pressure data together.
+- **Intuitive LCD Writing:** A user-friendly screen that translates raw medical data into an easily understandable health score.
+
+---
+
+## 🚧 The Development Journey
+
+Every hardware project has its hurdles. Here is a breakdown of our development phases:
+
+| Phase | Details |
+| :--- | :--- |
+| **1. Research**  | The research phase was plentiful, providing a solid theoretical groundwork with no major issues. |
+| **2. Material Gathering**  | *The biggest bottleneck.* Crucial components like the specific Pressure Sensor and Solenoid Valve that we researched and wanted to implement were not readily available locally in Egypt, causing some major drawbacks. |
+| **3. Implementation**  | A bit challenging because we couldn't source the exact parts planned during the research phase, we had to adapt our architecture and work with alternative components. |
+| **4. Testing**  | Once built, the testing phase proceeded smoothly with no issues faced. |
+
+---
+
+## 🚀 Future Roadmap
+Given more time and a sufficient budget, here is how we plan to evolve the Wellness Test Device:
+
+- [ ] 🌍 **Global Sourcing:** Order high-end, original components from overseas (bypassing local supply constraints and long shipping times).
+- [ ] 🎯 **Enhanced Precision:** Upgrade to clinical-grade, highly accurate sensors for even better data.
+- [ ] 🖨️ **Premium Enclosure:** Design and 3D-print a sleek, finalized, and highly presentable case.
+- [ ] 📺 **Display Upgrade:** Implement a higher-resolution, richer screen for clearer vital readings.
+- [ ] 📱 **Mobile Ecosystem:** Develop a custom companion mobile application for tracking health history and analytics.
+- [ ] 🔊 **Accessibility:** Integrate audio cues and voice readouts to make the device usable for the visually impaired.
