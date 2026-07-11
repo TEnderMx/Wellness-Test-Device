@@ -37,7 +37,7 @@ Every hardware project has its hurdles. Here is a breakdown of our development p
 
 ---
 
-## 🚀 Future Roadmap
+## 🚀 Features That Could've Been Emplemented
 Given more time and a sufficient budget, here is how we plan to evolve the Wellness Test Device:
 
 - [ ] 🌍 **Global Sourcing:** Order high-end, original components from overseas (bypassing local supply constraints and long shipping times).
