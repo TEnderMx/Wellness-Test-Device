@@ -33,7 +33,7 @@ Every hardware project has its hurdles. Here is a breakdown of our development p
 | **1. Research**  | The research phase was plentiful, providing a solid theoretical groundwork with no major issues. |
 | **2. Material Gathering**  | *The biggest bottleneck.* Crucial components like the specific Pressure Sensor and Solenoid Valve that we researched and wanted to implement were not readily available locally in Egypt, causing some major drawbacks. |
 | **3. Implementation**  | A bit challenging because we couldn't source the exact parts planned during the research phase, we had to adapt our architecture and work with alternative components. |
-| **4. Testing**  | Once built, the testing phase proceeded smoothly with no issues faced. |
+| **4. Testing**  | Once built, the testing phase proceeded smoothly with little to no issues faced. |
 
 ---
 
